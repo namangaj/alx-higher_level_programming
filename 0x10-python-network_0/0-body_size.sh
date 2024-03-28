@@ -3,7 +3,7 @@
 
 # Check if URL argument is provided
 if [ $# -ne 1 ]; then
-    echo "Usage: $0 <URL>"
+    echo "Usage: $0 <https://www.uon.ac.ke/>"
     exit 1
 fi
 
